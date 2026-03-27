@@ -93,6 +93,6 @@ Numerical Linear Algebra enables these methods by providing scalable tools for m
 
 
 
-A **real-life Project** is provided in the first exercise of [PDF document](https://github.com/AminAPNA/Graph-Analysis-and-Numerical-Linear-Algebra/blob/main/Example_Projects.pdf), and the corresponding **MATLAB codes** are available [here](https://github.com/AminAPNA/Mathematics-for-AI-or-data-science-Krylov-Methods-System-Solving/tree/main/matlab_codes).
+A **real-life Project** is provided in the first exercise of [PDF document](https://github.com/AminAPNA/Graph-Analysis-and-Numerical-Linear-Algebra/blob/main/Example_Projects.pdf), and the corresponding **MATLAB codes** are available [here](https://github.com/AminAPNA/Graph-Analysis-and-Numerical-Linear-Algebra/tree/main/my-code-folder).
 
 ---
